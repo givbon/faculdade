@@ -18,8 +18,6 @@ int main() {
     float area2;
     float pib2;
     int pontosTuristicos2;
-
-    
     
 
     printf("Criando a carta n° 1\n");

@@ -10,6 +10,17 @@ int main() {
     float pib1;
     int pontosTuristicos1;
 
+    /* CARTA 2 */
+    char estado2[2];           
+    char codigo2[4];           
+    char cidade2[50];          
+    int populacao2;
+    float area2;
+    float pib2;
+    int pontosTuristicos2;
+
+    /* CRIANDO CARTA 1*/
+    
     printf("Criando a carta n° 1\n");
 
     /* Estado */
@@ -41,16 +52,7 @@ int main() {
     printf("Digite a quantidade de pontos turísticos na cidade: ");
     scanf("%d", &pontosTuristicos1);
 
-
-
-    /* CARTA 2 */
-    char estado2[2];           
-    char codigo2[4];           
-    char cidade2[50];          
-    int populacao2;
-    float area2;
-    float pib2;
-    int pontosTuristicos2;
+    /* CRIANDO CARTA 2*/
 
     printf("Criando a carta n° 2\n");
 
